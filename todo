@@ -1,4 +1,5 @@
 add ipv6 to /etc/modules
-add hef to lpadmin
+add users to lpadmin and lp
 install htop
 install tmux
+add bry
